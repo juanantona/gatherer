@@ -1,0 +1,10 @@
+{
+	"name"    : "gatherer",
+	"version" : "0.1.0",
+	"description" : "Tiny community management",
+	"author"  : "Juanan Antona del Val",
+	"main": "main.js",
+	"scripts": {
+    	"start": "electron ."
+    }	
+}
